@@ -1,4 +1,5 @@
 # Mantella RU Piper
+n![Mantella RU Piper](docs/cover.png)
 
 Русские голоса [Piper](https://github.com/OHF-Voice/piper1-gpl) для [Mantella](https://www.nexusmods.com/skyrimspecialedition/mods/98631) (Skyrim SE/AE): 22 модели (medium), дообученные на оригинальной русской озвучке Skyrim, включая DLC. Они заменяют английские модели Piper в Mantella для тех же типов голосов.
 
